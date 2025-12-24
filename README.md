@@ -149,4 +149,4 @@ Spot declining profit trends before they become major issues.
 
 ## 📸 Dashboard Preview
 
-![Power BI Profit Analysis Dashboard](images/Dashboard_Plant.png)
+![Power BI Profit Analysis Dashboard](Dashboard_Plant.png)
